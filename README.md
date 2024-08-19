@@ -1,2 +1,2 @@
-# Module09-Assessment-Field-Agent-React
-Student Facing Exercises and Assessments for the Java Sync Program
+# Kangacook Application Test
+A simple Agent creating application where you can see agent information along with creating, editing and deleting agents.
